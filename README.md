@@ -1,5 +1,5 @@
 # SA-MP Client Installer
-This is the installer for SA-MP Client and SA-MP Client Voice
+This is the installer for SA-MP Client and SA-MP CEF Client
 
 ## Installation?
 - Click .exe file to running installation
@@ -10,7 +10,7 @@ If you find the installation process bugs, crashes and more. You can report to m
 
 ## Client Version
 - SA-MP 0.3.7-R3-1
-- SA-MP Voice 0.3.7-R3
+- SA-MP CEF 0.3.7-R3
 
 ## Credit
 - Author: [Anuraaaa](https://github.com/Anuraaaa)
